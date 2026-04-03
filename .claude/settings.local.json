@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -n '`' /Users/havardmoseby/uigen/src/lib/prompts/generation.tsx)",
+      "mcp__playwright__browser_navigate",
+      "Bash(npm run:*)",
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_click",
+      "mcp__playwright__browser_type",
+      "mcp__playwright__browser_take_screenshot",
+      "Bash(claude mcp:*)",
+      "Bash(git pull:*)"
+    ]
+  }
+}
